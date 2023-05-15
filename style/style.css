@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    background: url(../images/pattern.png);
+    text-align:justify;
+    line-height: 1.5;
+    font-size: 18px;
+
+}
+
+.pad {
+	padding: 0px;
+}
+
+.mage1 {
+	margin: 0 auto;
+	display: block;
+	height: 675px;
+	width: 960px;
+	background: url(../images/123456.jpg);
+	border-radius: 25px;
+
+}
+
+.mage2 {
+	margin: 0 auto;
+	display: block;
+	height: 675px;
+	width: 960px;
+	background: url(../images/1.png);
+	border-radius: 25px;
+}
+
+.mage3 {
+	margin: 0 auto;
+	display: block;
+	height: 675px;
+	width: 960px;
+	background: url(../images/sorev.jpg);
+	border-radius: 25px;
+}
+
+.mage4 {
+	margin: 0 auto;
+	display: block;
+	height: 620px;
+	width: 920px;
+	background: url(../images/rus.jpg);
+	border-radius: 25px;
+}
+
+.mage5 {
+	margin: 0 auto;
+	display: block;
+	height: 377px;
+	width: 960px;
+	background: url(../images/janr3.png);
+	border-radius: 25px;
+}
+
+.content{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.bg-dark {
+    background-color: #000000!important;
+}
+
+.dropdown-menu-dark {
+    color: #dee2e6;
+    background-color: #101010;
+    border-color: rgba(0,0,0,.15);
+}
+
+.janr {
+	padding: 40px 20px;
+}
+
+.footer{
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    margin-top: auto;
+}
+
